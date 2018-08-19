@@ -1,0 +1,36 @@
+/* for form style */
+
+h1{
+	font-family: serif;
+	color: #616161;
+}
+
+body{
+	background: #F5F5F5;
+	margin: 20px;
+	font-family: sans-serif;
+}
+
+
+/* button styles */
+
+button{
+	background: #BDBDBD;
+	font-family: sans-serif;
+}
+
+div{
+	margin: 8px;
+}
+
+ul{
+	font-family: sans-serif;
+	margin: 8px;
+	
+}
+
+/* text box styles */
+
+/* label styles */
+
+/* */
